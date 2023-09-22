@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+#XaO{
+    font-family: cursive;
+    margin-left: -15px;
+}
+
+button{
+    height: 70px;
+}
+
+#buttonText{
+    font-family: cursive;
+}
